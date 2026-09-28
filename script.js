@@ -9,20 +9,21 @@
    CONFIGURATION — edit everything about the surprise here
    ============================================================ */
 const birthdayConfig = {
-  name: "NAME HERE",
+  name: "Aj, My baby",
 
   // ===== EDIT THE INTRO MESSAGE HERE =====
   introLines: [
-    "Today isn't just another day...",
-    "...it's a day worth celebrating.",
-    "...because it's the day you came into this world."
+    "Today is your special day",
+    "it's a day that worth to celebrate",
+    "Always be happy and healthy",
+    "Happy birthday love."
   ],
 
   // ===== EDIT THE BIRTHDAY LETTER HERE =====
   letter:
-`My dearest friend,
+`My dearest Bujay,
 
-I hope this little letter finds you smiling today.
+I hope this little suprise that i made makes you a little happy today.
 Every year I get to know you feels like a gift, and this year is no different.
 
 Thank you for the laughter, the late-night talks, and every small
@@ -30,17 +31,17 @@ moment we've shared along the way.
 
 I hope today is as wonderful as you are.`,
 
-  finalHeading: "Happy Birthday, NAME HERE!",
+  finalHeading: "Happy Birthday, Buj!",
 
   // ===== EDIT THE FINAL MESSAGE HERE =====
   finalMessage:
 `I just wanted to take a moment to say how grateful I am to have you in my life. Here's to another year of adventures, inside jokes, and everything in between.`,
 
   wishes: [
-    "✨ Happiness",
-    "💜 Beautiful memories",
-    "🌸 New adventures",
-    "⭐ Dreams coming true"
+    " Happiness",
+    " Beautiful days",
+    " No stress, AND",
+    " Peace of mind."
   ],
 
   music: "assets/music.mp3",
@@ -64,7 +65,7 @@ I hope today is as wonderful as you are.`,
 };
 
 // fill in the name wherever it's used
-birthdayConfig.finalHeading = birthdayConfig.finalHeading.replace("NAME HERE", birthdayConfig.name);
+birthdayConfig.finalHeading = birthdayConfig.finalHeading.replace("My bujayy", birthdayConfig.name);
 
 /* ============================================================
    SHARED STATE
