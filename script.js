@@ -16,22 +16,24 @@ const birthdayConfig = {
     "Today is your special day",
     "it's a day that worth to celebrate",
     "Always be happy and healthy",
-    "Happy birthday love."
+    "Happy birthday My Babyy Bujjj."
   ],
 
   // ===== EDIT THE BIRTHDAY LETTER HERE =====
   letter:
-`My dearest Bujay,
+`My dearest Babyy Bujay,
 
-I hope this little suprise that i made makes you a little happy today.
-Every year I get to know you feels like a gift, and this year is no different.
+I hope this suprise that i made makes you a little happy.
+I know its not that much but i hope this will makes you happy at least.
+Sorry for all the mistakes that i made and all the time that i hurt you,but you keep forgiving me and loving me, i will allways be grateful that you still love me.
 
-Thank you for the laughter, the late-night talks, and every small
-moment we've shared along the way.
+Thank you for the love, the sweetneess, and every small
+moment that we spend togetther.
 
-I hope today is as wonderful as you are.`,
+I hope today makes you the happiest girl in the world
+Happy happy birthday babyy. I LOVEEE YOUU SO MUCHHH!!!`,
 
-  finalHeading: "Happy Birthday, Buj!",
+  finalHeading: "Happy Birthday, Babyy Buj!",
 
   // ===== EDIT THE FINAL MESSAGE HERE =====
   finalMessage:
