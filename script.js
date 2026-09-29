@@ -24,9 +24,9 @@ const birthdayConfig = {
 `My dearest Babyy Bujay,
 
 I hope this suprise that i made makes you a little happy.
-I know its not that much but i hope this will makes you happy at least.
-Sorry for all the mistakes that i made and all the time that i hurt you,but you keep forgiving me and loving me, i will allways be grateful that you still love me.
+I know its not that much but i hope this will makes you happy. at least a liittle bit. I lovee youuu.
 
+Sorry for all the mistakes that i made and all the time that i hurt you,but you keep forgiving me and loving me, i will allways be grateful that you still love me.
 Thank you for the love, the sweetneess, and every small
 moment that we spend togetther.
 
@@ -37,7 +37,7 @@ Happy happy birthday babyy. I LOVEEE YOUU SO MUCHHH!!!`,
 
   // ===== EDIT THE FINAL MESSAGE HERE =====
   finalMessage:
-`I just wanted to take a moment to say how grateful I am to have you in my life. Here's to another year of adventures, inside jokes, and everything in between.`,
+`I just wanted to say how grateful I am to have you in my life, even though we fight sometimes over the smallest things, but even tho we fight, i still love youuu so much from the bottom of my heart, i will always love you an will keep loving you forever. I LOVEE YOUU SO MUCHH MY BABYYY, HAPPY HAPPY 19TH BIRTHDAY MY BABYYY`,
 
   wishes: [
     " Happiness",
@@ -49,20 +49,20 @@ Happy happy birthday babyy. I LOVEEE YOUU SO MUCHHH!!!`,
   music: "assets/music.mp3",
 
   photos: [
-    { src: "assets/photo1.jpg", caption: "The beginning" },
-    { src: "assets/photo2.jpg", caption: "That trip we still talk about" },
-    { src: "assets/photo3.jpg", caption: "Just being silly" },
-    { src: "assets/photo4.jpg", caption: "A quiet good day" },
-    { src: "assets/photo5.jpg", caption: "Right now" }
+    { src: "assets/1.jpg.jpg", caption: "Mini Youu " },
+    { src: "assets/2.jpg.jpg", caption: "Your fav pose when u are little hihi" },
+    { src: "assets/3.jpg.jpg", caption: "Just beinng silly, so cuteee kulittt" },
+    { src: "assets/4.jpg.jpg", caption: "Just you, i felt like you cute here, i like thiss" },
+    { src: "assets/5.jpg.jpg", caption: "Your 18th birthdayyy, also one of my fav pic" }
   ],
 
   // Used for the memory timeline. Reuses the photos above.
   memories: [
-    { dateLabel: "Way back when", title: "The beginning", desc: "One of those little moments that became a beautiful memory." },
-    { dateLabel: "Not long after", title: "Getting closer", desc: "The kind of day that felt small then, but means a lot now." },
-    { dateLabel: "Somewhere in between", title: "The good chaos", desc: "Every inside joke we still bring up started somewhere like this." },
-    { dateLabel: "More recently", title: "Still going strong", desc: "Proof that some things only get better with time." },
-    { dateLabel: "Today", title: "Right here, right now", desc: "And now, this little surprise — just for you." }
+    { dateLabel: "Way back when", title: "You are mini genius", desc: "Then u are mini genius, now big genius" },
+    { dateLabel: "When you have", title: "Your fav pose", desc: "The kind of pose you want when u are little" },
+    { dateLabel: "If there is ice", title: "This is you chewing it", desc: "Your favorite dessert" },
+    { dateLabel: "Somewhere in the ", title: "Manila museum", desc: "Proof that some things only get better when you go out HAHAHA" },
+    { dateLabel: "Today", title: "Right here, right now", desc: "And now, here, i dont know what to saym you are just so beautiful" }
   ]
 };
 
@@ -131,7 +131,7 @@ function initEnvelope() {
     state.envelopeActivating = true;
     envelope.disabled = true;
     envelope.classList.add("is-opening");
-    instruction.textContent = "Opening your surprise...";
+    instruction.textContent = "Openinggg";
 
     // Prime music playback SYNCHRONOUSLY within this click/keydown handler.
     // Safari/iOS only honor audio.play() as "user-initiated" if it's called
